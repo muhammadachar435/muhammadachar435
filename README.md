@@ -3,7 +3,7 @@
 
 📧 Email Me 👉 ✉️ muhammadacharzardari69@@gmail.com for Collaboration / Projects / Tech Support 🚀
 
-- 🔭 **I’m currently working on:** real-world MERN Stack projects with DevOps and CI/CD integration.
+- 🔭 **I’m currently working on:** Real-world MERN Stack projects with DevOps and CI/CD integration.
 - 🌱 **I’m currently learning:** Advanced MERN Stack development along with DevOps practices like CI/CD, Docker, and Kubernetes.
 - 👯 **I’m looking to collaborate on:** MERN Stack Projects (Full-Stack Web Apps, E-commerce, Portfolios) & DevOps Automation (CI/CD, Cloud Infra, Dockerized Apps)
 - 🤔 **I’m looking for help with:** improving my DevOps and MERN stack skills.
