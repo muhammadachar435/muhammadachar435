@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Muhammad Achar
 **A passionate MERN Stack Developer || DevOps Engineer from Pakistan**
 
-📧 Email Me 👉 ✉️ muhammadacharzardari69@@gmail.com for Collaboration / Projects / Tech Support 🚀
+📧 Email Me 👉 ✉️ muhammadacharzardari69@gmail.com for Collaboration / Projects / Tech Support 🚀
 
 - 🔭 **I’m currently working on:** Real-world MERN Stack projects with DevOps and CI/CD integration.
 - 🌱 **I’m currently learning:** Advanced MERN Stack development along with DevOps practices like CI/CD, Docker, and Kubernetes.
