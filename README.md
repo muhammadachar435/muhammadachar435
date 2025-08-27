@@ -8,7 +8,7 @@
 - 👯 **I’m looking to collaborate on:** MERN Stack Projects (Full-Stack Web Apps, E-commerce, Portfolios) & DevOps Automation (CI/CD, Cloud Infra, Dockerized Apps)
 - 🤔 **I’m looking for help with:** improving my DevOps and MERN stack skills.
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** muhammadacharzardari69@@gmail.com
+- 📫 **How to reach me:** muhammadacharzardari69@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Tech is not just my work, it’s my passion.
   
